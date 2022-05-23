@@ -10,7 +10,7 @@
  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AfterEffect-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-99CC00?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
  
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jjhlove04&row=1)](https://github.com/ryo-ma/github-profile-trophy)

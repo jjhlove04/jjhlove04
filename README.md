@@ -7,3 +7,6 @@
 
 <a href="https://jinhyocoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T StroyBlog-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=White"/>
 <a href="https://www.instagram.com/j._.h_0105/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/><br>
+  
+![jjhlove04's github stats](https://github-readme-stats.vercel.app/api?username=jjhlove04&show_icons=true)
+[![jjhlove04's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhlove04&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jjhlove04)

@@ -7,6 +7,7 @@
 
 <a href="https://jinhyocoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T StroyBlog-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=White"/>
 <a href="https://www.instagram.com/j._.h_0105/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jjhlove04&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   

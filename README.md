@@ -12,7 +12,7 @@
 
 ---
 
-> <a href="https://jinhyocoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T StroyBlog-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=White"/> <a href="https://www.instagram.com/j._.h_0105/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/><br>
+> <a href="https://jinhyocoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T StroyBlog-FF5722?style=for-the-badge&logo=Bloglovin&logoColor=White"/> <a href="https://www.instagram.com/jin___h_04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/><br>
 
 ## 🛠 Tech Stack 🛠
 
